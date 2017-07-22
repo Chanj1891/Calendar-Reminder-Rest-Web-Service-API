@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Created by Chandan Jagadesh on 7/20/2017.
- * Service class which calls the methods in DAO class, which is a model class
+ * Service class, which calls the methods in DAO class, a model class
  * If a presentation layer is added then this class can be used in combination with that
  */
 
